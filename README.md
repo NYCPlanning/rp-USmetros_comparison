@@ -31,10 +31,10 @@ _[A user guide for Census Data API](https://github.com/NYCPlanning/rp-USmetros_c
 
 ## What’s changing at the metro scale?
 
--  **NY is the largest metro, but it’s also growing slowly.** 
+### NY is the largest metro, but it’s also growing slowly.** 
   - The NY Metro growing slower than many other large metros – in absolute terms (less pop add than LA, Dallas, Houston) and % terms (slower than every large metro except Chicago, Phila, Detroit).
   - As result, NY Metro share of US pop is decreasing slowly over time
-- Our economy is still the largest and biggest winner, but we are not alone in metro economic success. 
+### Our economy is still the largest and biggest winner, but we are not alone in metro economic success. 
   - NYC Metro added just about million jobs post 2010 – about 1.6%/yr.
   - LA gained almost equivalent # of jobs
   - Growth rate about equivalent to Boston metro – Chicago, DC, Phila lower
@@ -43,18 +43,18 @@ _[A user guide for Census Data API](https://github.com/NYCPlanning/rp-USmetros_c
   - Services gains more than any other metro
   - Industrial losses vs. small gains in SF, Denver (not LA)
  
-- Our workforce is aging, and other smaller metros are substantially growing their young workforce.
+### Our workforce is aging, and other smaller metros are substantially growing their young workforce.
  - NYC is 11th of 15 metros in rate of labor force growth – added 1.5M workers since 2000 but at rate slightly less than US average (just under 1%/year)
  - 75% of labor force growth was in workers 55+. In absolute terms, growth in prime-age labor force was smaller than LA, DC, Dallas, Houston, Miami. Higher than SF, Atlanta, Seattle, Denver. (growth at aprox .38%/year)
  - As a result, a larger proportion of our working age population is older – as older workers age out of working, our ability to replenish our talent base affects our ability to grow jobs (THIS POINT NEEDS CLEARER DATA ON OVERALL % OF AGING WORKFORCE)
  
-- NYC Metro has one of the lowest rates of Housing growth of all metros.
+### NYC Metro has one of the lowest rates of Housing growth of all metros.
  - At about .3% a year permitted (and less actually built), the growth of our metro’s housing stock is only faster than Chicago, Philadelphia and Detroit, which have not experienced the same economic success.
  - In the post-recession period, we added housing at only about .5 units for every 1 job. (NEED TO KNOW HOW OTHER METROS DID IN THIS TIME SCALE).
  - Over a 20 year period, the rate isn’t as bad – about 1 home per job. Still a slower rate of housing growth relative to job growth than most metros.  
  - Though low on overall housing growth, NY Metro still had the largest supply of new multifamily housing. All regions saw a decline in single family unit production post-recession, while multifamily production remained relatively constant across cities.
  
-- Though low on overall housing growth, NY Metro still had the largest supply of new multifamily housing.
+### Though low on overall housing growth, NY Metro still had the largest supply of new multifamily housing.
  - All regions saw a decline in single family unit production post-recession, while multifamily production remained relatively constant across cities.
  - NYC’s high share of multifamily production is what buoyed its overall supply post-recession – once single family declined, regions with largest multifamily potential fared best in overall production.
  
