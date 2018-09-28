@@ -1,0 +1,275 @@
+,CSA,CSA_name,County_name,STCO
+0,348,"Los Angeles-Long Beach, CA",Riverside,06065
+1,348,"Los Angeles-Long Beach, CA",San Bernardino,06071
+2,348,"Los Angeles-Long Beach, CA",Ventura,06111
+3,176,"Chicago-Naperville, IL-IN-WI",Cook,17031
+4,488,"San Jose-San Francisco-Oakland, CA",Alameda,06001
+5,488,"San Jose-San Francisco-Oakland, CA",Contra Costa,06013
+6,488,"San Jose-San Francisco-Oakland, CA",Marin,06041
+7,488,"San Jose-San Francisco-Oakland, CA",Napa,06055
+8,488,"San Jose-San Francisco-Oakland, CA",San Benito,06069
+9,488,"San Jose-San Francisco-Oakland, CA",San Francisco,06075
+10,488,"San Jose-San Francisco-Oakland, CA",San Joaquin,06077
+11,488,"San Jose-San Francisco-Oakland, CA",San Mateo,06081
+12,488,"San Jose-San Francisco-Oakland, CA",Santa Clara,06085
+13,488,"San Jose-San Francisco-Oakland, CA",Santa Cruz,06087
+14,488,"San Jose-San Francisco-Oakland, CA",Solano,06095
+15,488,"San Jose-San Francisco-Oakland, CA",Sonoma,06097
+16,348,"Los Angeles-Long Beach, CA",Los Angeles,06037
+17,348,"Los Angeles-Long Beach, CA",Orange,06059
+18,216,"Denver-Aurora, CO",Adams,08001
+19,216,"Denver-Aurora, CO",Arapahoe,08005
+20,216,"Denver-Aurora, CO",Boulder,08013
+21,216,"Denver-Aurora, CO",Broomfield,08014
+22,216,"Denver-Aurora, CO",Clear Creek,08019
+23,216,"Denver-Aurora, CO",Denver,08031
+24,216,"Denver-Aurora, CO",Douglas,08035
+25,216,"Denver-Aurora, CO",Elbert,08039
+26,216,"Denver-Aurora, CO",Gilpin,08047
+27,216,"Denver-Aurora, CO",Jefferson,08059
+28,216,"Denver-Aurora, CO",Park,08093
+29,216,"Denver-Aurora, CO",Weld,08123
+30,408,"New York-Newark, NY-NJ-CT-PA",Fairfield,09001
+31,408,"New York-Newark, NY-NJ-CT-PA",Litchfield,09005
+32,408,"New York-Newark, NY-NJ-CT-PA",New Haven,09009
+33,408,"New York-Newark, NY-NJ-CT-PA",Bergen,34003
+34,408,"New York-Newark, NY-NJ-CT-PA",Essex,34013
+35,408,"New York-Newark, NY-NJ-CT-PA",Hudson,34017
+36,408,"New York-Newark, NY-NJ-CT-PA",Hunterdon,34019
+37,408,"New York-Newark, NY-NJ-CT-PA",Mercer,34021
+38,408,"New York-Newark, NY-NJ-CT-PA",Middlesex,34023
+39,408,"New York-Newark, NY-NJ-CT-PA",Monmouth,34025
+40,408,"New York-Newark, NY-NJ-CT-PA",Morris,34027
+41,408,"New York-Newark, NY-NJ-CT-PA",Ocean,34029
+42,408,"New York-Newark, NY-NJ-CT-PA",Passaic,34031
+43,408,"New York-Newark, NY-NJ-CT-PA",Somerset,34035
+44,408,"New York-Newark, NY-NJ-CT-PA",Sussex,34037
+45,408,"New York-Newark, NY-NJ-CT-PA",Union,34039
+46,408,"New York-Newark, NY-NJ-CT-PA",Warren,34041
+47,408,"New York-Newark, NY-NJ-CT-PA",Bronx,36005
+48,408,"New York-Newark, NY-NJ-CT-PA",Dutchess,36027
+49,408,"New York-Newark, NY-NJ-CT-PA",Kings,36047
+50,408,"New York-Newark, NY-NJ-CT-PA",Nassau,36059
+51,408,"New York-Newark, NY-NJ-CT-PA",New York,36061
+52,408,"New York-Newark, NY-NJ-CT-PA",Orange,36071
+53,408,"New York-Newark, NY-NJ-CT-PA",Putnam,36079
+54,408,"New York-Newark, NY-NJ-CT-PA",Queens,36081
+55,408,"New York-Newark, NY-NJ-CT-PA",Richmond,36085
+56,408,"New York-Newark, NY-NJ-CT-PA",Rockland,36087
+57,408,"New York-Newark, NY-NJ-CT-PA",Suffolk,36103
+58,408,"New York-Newark, NY-NJ-CT-PA",Ulster,36111
+59,408,"New York-Newark, NY-NJ-CT-PA",Westchester,36119
+60,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Windham,09015
+61,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Barnstable,25001
+62,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Bristol,25005
+63,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Essex,25009
+64,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Middlesex,25017
+65,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Norfolk,25021
+66,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Plymouth,25023
+67,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Suffolk,25025
+68,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Worcester,25027
+69,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Belknap,33001
+70,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Hillsborough,33011
+71,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Merrimack,33013
+72,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Rockingham,33015
+73,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Strafford,33017
+74,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Bristol,44001
+75,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Kent,44003
+76,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Newport,44005
+77,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Providence,44007
+78,148,"Boston-Worcester-Providence, MA-RI-NH-CT",Washington,44009
+79,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Kent,10001
+80,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",New Castle,10003
+81,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Cecil,24015
+82,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Atlantic,34001
+83,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Burlington,34005
+84,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Camden,34007
+85,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Cape May,34009
+86,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Cumberland,34011
+87,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Gloucester,34015
+88,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Salem,34033
+89,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Berks,42011
+90,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Bucks,42017
+91,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Chester,42029
+92,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Delaware,42045
+93,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Montgomery,42091
+94,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Philadelphia,42101
+95,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",District of Columbia,11001
+96,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Anne Arundel,24003
+97,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Baltimore,24005
+98,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Calvert,24009
+99,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Carroll,24013
+100,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Charles,24017
+101,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Dorchester,24019
+102,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Frederick,24021
+103,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Harford,24025
+104,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Howard,24027
+105,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Montgomery,24031
+106,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Prince George's,24033
+107,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Queen Anne's,24035
+108,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",St. Mary's,24037
+109,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Talbot,24041
+110,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Washington,24043
+111,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Baltimore,24510
+112,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Franklin,42055
+113,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Arlington,51013
+114,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Clarke,51043
+115,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Culpeper,51047
+116,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Fairfax,51059
+117,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Fauquier,51061
+118,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Frederick,51069
+119,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Loudoun,51107
+120,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Prince William,51153
+121,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Rappahannock,51157
+122,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Spotsylvania,51177
+123,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Stafford,51179
+124,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Warren,51187
+125,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Alexandria,51510
+126,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Fairfax,51600
+127,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Falls Church,51610
+128,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Fredericksburg,51630
+129,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Manassas,51683
+130,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Manassas Park,51685
+131,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Winchester,51840
+132,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Berkeley,54003
+133,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Hampshire,54027
+134,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Jefferson,54037
+135,370,"Miami-Fort Lauderdale-Port St. Lucie, FL",Broward,12011
+136,370,"Miami-Fort Lauderdale-Port St. Lucie, FL",Indian River,12061
+137,370,"Miami-Fort Lauderdale-Port St. Lucie, FL",Martin,12085
+138,370,"Miami-Fort Lauderdale-Port St. Lucie, FL",Miami-Dade,12086
+139,370,"Miami-Fort Lauderdale-Port St. Lucie, FL",Okeechobee,12093
+140,370,"Miami-Fort Lauderdale-Port St. Lucie, FL",Palm Beach,12099
+141,370,"Miami-Fort Lauderdale-Port St. Lucie, FL",St. Lucie,12111
+142,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Barrow,13013
+143,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Bartow,13015
+144,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Butts,13035
+145,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Carroll,13045
+146,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Cherokee,13057
+147,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Clarke,13059
+148,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Clayton,13063
+149,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Cobb,13067
+150,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Coweta,13077
+151,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Dawson,13085
+152,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",DeKalb,13089
+153,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Douglas,13097
+154,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Fayette,13113
+155,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Forsyth,13117
+156,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Fulton,13121
+157,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Gordon,13129
+158,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Gwinnett,13135
+159,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Hall,13139
+160,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Haralson,13143
+161,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Heard,13149
+162,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Henry,13151
+163,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Jackson,13157
+164,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Jasper,13159
+165,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Lamar,13171
+166,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Madison,13195
+167,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Meriwether,13199
+168,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Morgan,13211
+169,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Newton,13217
+170,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Oconee,13219
+171,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Oglethorpe,13221
+172,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Paulding,13223
+173,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Pickens,13227
+174,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Pike,13231
+175,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Polk,13233
+176,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Rockdale,13247
+177,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Spalding,13255
+178,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Troup,13285
+179,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Upson,13293
+180,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",Walton,13297
+181,176,"Chicago-Naperville, IL-IN-WI",Bureau,17011
+182,176,"Chicago-Naperville, IL-IN-WI",DeKalb,17037
+183,176,"Chicago-Naperville, IL-IN-WI",DuPage,17043
+184,176,"Chicago-Naperville, IL-IN-WI",Grundy,17063
+185,176,"Chicago-Naperville, IL-IN-WI",Kane,17089
+186,176,"Chicago-Naperville, IL-IN-WI",Kankakee,17091
+187,176,"Chicago-Naperville, IL-IN-WI",Kendall,17093
+188,176,"Chicago-Naperville, IL-IN-WI",Lake,17097
+189,176,"Chicago-Naperville, IL-IN-WI",LaSalle,17099
+190,176,"Chicago-Naperville, IL-IN-WI",McHenry,17111
+191,176,"Chicago-Naperville, IL-IN-WI",Putnam,17155
+192,176,"Chicago-Naperville, IL-IN-WI",Will,17197
+193,176,"Chicago-Naperville, IL-IN-WI",Jasper,18073
+194,176,"Chicago-Naperville, IL-IN-WI",Lake,18089
+195,176,"Chicago-Naperville, IL-IN-WI",LaPorte,18091
+196,176,"Chicago-Naperville, IL-IN-WI",Newton,18111
+197,176,"Chicago-Naperville, IL-IN-WI",Porter,18127
+198,176,"Chicago-Naperville, IL-IN-WI",Kenosha,55059
+199,220,"Detroit-Warren-Ann Arbor, MI",Genesee,26049
+200,220,"Detroit-Warren-Ann Arbor, MI",Lapeer,26087
+201,220,"Detroit-Warren-Ann Arbor, MI",Lenawee,26091
+202,220,"Detroit-Warren-Ann Arbor, MI",Livingston,26093
+203,220,"Detroit-Warren-Ann Arbor, MI",Macomb,26099
+204,220,"Detroit-Warren-Ann Arbor, MI",Monroe,26115
+205,220,"Detroit-Warren-Ann Arbor, MI",Oakland,26125
+206,220,"Detroit-Warren-Ann Arbor, MI",St. Clair,26147
+207,220,"Detroit-Warren-Ann Arbor, MI",Washtenaw,26161
+208,220,"Detroit-Warren-Ann Arbor, MI",Wayne,26163
+209,378,"Minneapolis-St. Paul, MN-WI",Anoka,27003
+210,378,"Minneapolis-St. Paul, MN-WI",Benton,27009
+211,378,"Minneapolis-St. Paul, MN-WI",Carver,27019
+212,378,"Minneapolis-St. Paul, MN-WI",Chisago,27025
+213,378,"Minneapolis-St. Paul, MN-WI",Dakota,27037
+214,378,"Minneapolis-St. Paul, MN-WI",Goodhue,27049
+215,378,"Minneapolis-St. Paul, MN-WI",Hennepin,27053
+216,378,"Minneapolis-St. Paul, MN-WI",Isanti,27059
+217,378,"Minneapolis-St. Paul, MN-WI",Le Sueur,27079
+218,378,"Minneapolis-St. Paul, MN-WI",McLeod,27085
+219,378,"Minneapolis-St. Paul, MN-WI",Mille Lacs,27095
+220,378,"Minneapolis-St. Paul, MN-WI",Ramsey,27123
+221,378,"Minneapolis-St. Paul, MN-WI",Rice,27131
+222,378,"Minneapolis-St. Paul, MN-WI",Scott,27139
+223,378,"Minneapolis-St. Paul, MN-WI",Sherburne,27141
+224,378,"Minneapolis-St. Paul, MN-WI",Sibley,27143
+225,378,"Minneapolis-St. Paul, MN-WI",Stearns,27145
+226,378,"Minneapolis-St. Paul, MN-WI",Washington,27163
+227,378,"Minneapolis-St. Paul, MN-WI",Wright,27171
+228,378,"Minneapolis-St. Paul, MN-WI",Pierce,55093
+229,378,"Minneapolis-St. Paul, MN-WI",St. Croix,55109
+230,206,"Dallas-Fort Worth, TX-OK",Bryan,40013
+231,206,"Dallas-Fort Worth, TX-OK",Collin,48085
+232,206,"Dallas-Fort Worth, TX-OK",Cooke,48097
+233,206,"Dallas-Fort Worth, TX-OK",Dallas,48113
+234,206,"Dallas-Fort Worth, TX-OK",Denton,48121
+235,206,"Dallas-Fort Worth, TX-OK",Ellis,48139
+236,206,"Dallas-Fort Worth, TX-OK",Grayson,48181
+237,206,"Dallas-Fort Worth, TX-OK",Henderson,48213
+238,206,"Dallas-Fort Worth, TX-OK",Hood,48221
+239,206,"Dallas-Fort Worth, TX-OK",Hopkins,48223
+240,206,"Dallas-Fort Worth, TX-OK",Hunt,48231
+241,206,"Dallas-Fort Worth, TX-OK",Johnson,48251
+242,206,"Dallas-Fort Worth, TX-OK",Kaufman,48257
+243,206,"Dallas-Fort Worth, TX-OK",Navarro,48349
+244,206,"Dallas-Fort Worth, TX-OK",Palo Pinto,48363
+245,206,"Dallas-Fort Worth, TX-OK",Parker,48367
+246,206,"Dallas-Fort Worth, TX-OK",Rockwall,48397
+247,206,"Dallas-Fort Worth, TX-OK",Somervell,48425
+248,206,"Dallas-Fort Worth, TX-OK",Tarrant,48439
+249,206,"Dallas-Fort Worth, TX-OK",Wise,48497
+250,288,"Houston-The Woodlands, TX",Austin,48015
+251,288,"Houston-The Woodlands, TX",Brazoria,48039
+252,288,"Houston-The Woodlands, TX",Chambers,48071
+253,288,"Houston-The Woodlands, TX",Fort Bend,48157
+254,288,"Houston-The Woodlands, TX",Galveston,48167
+255,288,"Houston-The Woodlands, TX",Harris,48201
+256,288,"Houston-The Woodlands, TX",Liberty,48291
+257,288,"Houston-The Woodlands, TX",Matagorda,48321
+258,288,"Houston-The Woodlands, TX",Montgomery,48339
+259,288,"Houston-The Woodlands, TX",Trinity,48455
+260,288,"Houston-The Woodlands, TX",Walker,48471
+261,288,"Houston-The Woodlands, TX",Waller,48473
+262,288,"Houston-The Woodlands, TX",Washington,48477
+263,288,"Houston-The Woodlands, TX",Wharton,48481
+264,500,"Seattle-Tacoma, WA",Island,53029
+265,500,"Seattle-Tacoma, WA",King,53033
+266,500,"Seattle-Tacoma, WA",Kitsap,53035
+267,500,"Seattle-Tacoma, WA",Lewis,53041
+268,500,"Seattle-Tacoma, WA",Mason,53045
+269,500,"Seattle-Tacoma, WA",Pierce,53053
+270,500,"Seattle-Tacoma, WA",Skagit,53057
+271,500,"Seattle-Tacoma, WA",Snohomish,53061
+272,500,"Seattle-Tacoma, WA",Thurston,53067
+273,408,"New York-Newark, NY-NJ-CT-PA",Sullivan,36105

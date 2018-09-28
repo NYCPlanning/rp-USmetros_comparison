@@ -5,7 +5,9 @@ Los Angeles,81456,85636,41799,101532,348,"Los Angeles-Long Beach, CA",06037
 Marin,3384,1550,1409,1260,488,"San Jose-San Francisco-Oakland, CA",06041
 Napa,4360,1144,1378,288,488,"San Jose-San Francisco-Oakland, CA",06055
 Orange,41808,32441,30152,40311,348,"Los Angeles-Long Beach, CA",06059
+Riverside,167696,23867,43901,11637,348,"Los Angeles-Long Beach, CA",06065
 San Benito,1333,80,1669,5,488,"San Jose-San Francisco-Oakland, CA",06069
+San Bernardino,80855,11867,22027,9774,348,"Los Angeles-Long Beach, CA",06071
 San Francisco,1247,14845,890,26362,488,"San Jose-San Francisco-Oakland, CA",06075
 San Joaquin,39617,1969,12165,1805,488,"San Jose-San Francisco-Oakland, CA",06077
 San Mateo,5784,4423,3488,7450,488,"San Jose-San Francisco-Oakland, CA",06081
@@ -13,6 +15,7 @@ Santa Clara,18402,26959,13814,40199,488,"San Jose-San Francisco-Oakland, CA",060
 Santa Cruz,4224,1810,1738,1147,488,"San Jose-San Francisco-Oakland, CA",06087
 Solano,14188,3268,6136,1113,488,"San Jose-San Francisco-Oakland, CA",06095
 Sonoma,12462,4897,4775,2375,488,"San Jose-San Francisco-Oakland, CA",06097
+Ventura,17637,6835,4769,6122,348,"Los Angeles-Long Beach, CA",06111
 Adams,28414,8051,10685,2597,216,"Denver-Aurora, CO",08001
 Arapahoe,24068,15393,12220,9711,216,"Denver-Aurora, CO",08005
 Boulder,9864,3276,5279,6462,216,"Denver-Aurora, CO",08013
@@ -79,6 +82,7 @@ Troup,3254,661,1199,364,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",1
 Upson,834,36,187,56,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",13293
 Walton,10201,427,2441,67,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA",13297
 Bureau,478,92,233,56,176,"Chicago-Naperville, IL-IN-WI",17011
+Cook,43940,81854,13511,49702,176,"Chicago-Naperville, IL-IN-WI",17031
 DeKalb,5371,1362,742,102,176,"Chicago-Naperville, IL-IN-WI",17037
 DuPage,20840,5778,8279,2646,176,"Chicago-Naperville, IL-IN-WI",17043
 Grundy,3584,531,692,875,176,"Chicago-Naperville, IL-IN-WI",17063

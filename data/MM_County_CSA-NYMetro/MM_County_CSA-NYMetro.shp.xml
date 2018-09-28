@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20180627</CreaDate><CreaTime>18251800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20180627" Time="182518">CalculateField "Major Metros Only\MM_County_CSA-NYMetro" ALAND_mi [ALAND]*3.86102e-7 VB #</Process></lineage></DataProperties></Esri></metadata>
